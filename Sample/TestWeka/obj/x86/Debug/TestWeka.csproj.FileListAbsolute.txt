@@ -1,0 +1,29 @@
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\TestWeka.exe
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\TestWeka.pdb
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\weka.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.Runtime.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\TestWeka.Form1.resources
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\TestWeka.Properties.Resources.resources
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\TestWeka.exe
+C:\Users\Dv6\Desktop\TestWeka\TestWeka\obj\x86\Debug\TestWeka.pdb
+C:\Users\Dv6\Desktop\Weka in .NET\TestWeka\TestWeka\obj\x86\Debug\TestWeka.exe
+C:\Users\Dv6\Desktop\Weka in .NET\TestWeka\TestWeka\obj\x86\Debug\TestWeka.pdb
